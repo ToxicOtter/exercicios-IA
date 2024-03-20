@@ -1,0 +1,15 @@
+# EXERCÍCIO 1
+## O valor ideal de K é 
+## De acordo com a métrica Silhoutte Score, o modelo é
+## Código:
+
+# EXERCÍCIO 2
+## Ao executar o modelo no Orange, identificou-se que o valor ideal para k é 
+
+# EXERCÍCIO 3
+##
+
+# Código: 
+
+# Fontes:
+- 
